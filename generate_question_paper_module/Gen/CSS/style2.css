@@ -1,0 +1,43 @@
+.headGp
+{
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+.SubheadGp1
+{
+  text-align: center;
+  margin-top: 3px;
+  margin-bottom: 6px;
+}
+.SubHeadB1
+{
+  margin-top: 0;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+.SubHeadB2
+{
+  font-weight: 900;
+  text-align: right;
+  margin-bottom: 0;
+  position: relative;
+  right: 200px;
+}
+.SubHeadB3
+{
+  margin-top: 6px;
+  text-transform: uppercase;
+  font-weight: 900;
+  text-align: right;
+  display: inline-block;
+  position: relative;
+  left: 800;
+}
+.SubHeadB4
+{
+  margin-top: 6px;
+  text-transform: uppercase;
+  text-align: right;
+}

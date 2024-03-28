@@ -1,0 +1,76 @@
+.WholeForm
+{
+  height: 500px;
+  width: 500px;
+  position: absolute;
+  left: 50%;
+  margin-left: -250px;
+
+}
+
+
+.fidbtn
+{
+  position: absolute;
+  left: 50%;
+  margin-left: -50px;
+
+}
+
+.h2tex
+{
+  position: relative;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.WholeMenu
+{
+  height: 400px;
+  width: 200px;
+}
+
+.alert
+{
+  text-align: center;
+}
+
+.text-muted
+{
+  position: relative;
+  left: 0;
+}
+
+.AboutDiv
+{
+  display:inline-block;
+  position: relative;
+  top: -20px;
+  left: 50px;
+}
+.TeamName
+{
+  display:inline-block;
+  position: relative;
+  top: -42.5px;
+  left: 98px;
+}
+
+.UpdateFormCC
+{
+  height: 100px;
+  width: 500px;
+  position: relative;
+  left: 50%;
+  margin-left: -250px;
+
+}
+.UShowPanel
+{
+  margin-top: 60px;
+}
+
+.CnoteTex
+{
+  text-align: center;
+}
